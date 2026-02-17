@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* Apollo Intelligence Network - 27 x402-gated intelligence API endpoints for AI agents. Market trends, OSINT, DeFi yields, GitHub trending, pain points, and more. USDC on Base. [Website](https://apolloai.team) [MCP Server](https://www.npmjs.com/package/@apollo_ai/mcp-proxy) [Discovery](https://apolloai.team/.well-known/x402)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

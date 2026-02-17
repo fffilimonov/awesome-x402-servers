@@ -61,6 +61,9 @@ It allows seamless machine-native transactions:
 ## 🔎 Further Reading
 
 * [x402 Whitepaper (May 2025)](https://x402.org)
+* [Awesome x402](https://github.com/xpaysh/awesome-x402) — Curated list of x402 tools, servers, SDKs, and resources
+* [Awesome Agentic Economy](https://github.com/xpaysh/awesome-agentic-economy) — Directory of agentic economy projects, frameworks, and infrastructure
+* [Agentic Economy Newsletter](https://agenticeconomy.substack.com) — Weekly updates on x402 ecosystem and agentic commerce developments
 * [EIP-3009 Spec](https://eips.ethereum.org/EIPS/eip-3009)
 * [Docs](https://x402.gitbook.io/)
 ---

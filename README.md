@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Automaton Oracle - Sovereign crypto intelligence oracle with self-hosted x402 facilitator. 6 paid endpoints on Base mainnet: DeFi prices, DEX data, signals, macro, pump, meme scores. [Website](https://automaton-oracle.xyz) [Health](https://automaton-oracle.xyz/health)
 
 ---
 

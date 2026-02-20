@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Moltalyzer - AI intelligence feeds for agents: hourly Moltbook community digests, daily GitHub trending repos, and daily Polymarket insider detection. 7 endpoints from $0.005 USDC on Base Mainnet. [Website](https://moltalyzer.xyz) [API](https://api.moltalyzer.xyz)
 
 ---
 

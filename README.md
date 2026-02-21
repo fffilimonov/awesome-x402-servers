@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* AsterPay - EUR settlement endpoints for x402. 13 paid data API endpoints with USDC→EUR via SEPA Instant. [Website](https://asterpay.io) [x402.org Listing](https://www.x402.org/ecosystem)
 
 ---
 

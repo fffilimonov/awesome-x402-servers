@@ -26,6 +26,8 @@ It allows seamless machine-native transactions:
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
+* Intelligence Aeternum Data Portal - AI training dataset marketplace with 2M+ museum artworks, 111-field Golden Codex enrichment, and x402 USDC micropayments on Base L2. 16 MCP tools. [Website](https://data-portal-172867820131.us-west1.run.app) [Github](https://github.com/codex-curator/intelligence-aeternum-mcp)
+
 ---
 
 ## Dashboard

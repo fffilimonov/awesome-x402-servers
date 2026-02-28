@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* DJD Agent Score - Behavioral reputation scoring API for AI agent wallets on Base. Returns 0–100 trust scores using on-chain transaction patterns, sybil detection, and gaming velocity checks. [Website](https://djd-agent-score.fly.dev) [Github](https://github.com/jacobsd32-cpu/djd-agent-score)
 
 ---
 

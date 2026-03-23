@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* DeepBlue Trading API - Autonomous crypto trading signals: real-time BTC/ETH/SOL/XRP 5-min directional signals from a live Binance websocket + 6-indicator ensemble. 17 x402 endpoints, $0.001–$0.03 USDC on Base or Solana. [Website](https://api.deepbluebase.xyz) [Docs](https://deepbluebase.xyz/api-docs.html)
 
 ---
 

@@ -24,6 +24,8 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* Hallucination Gate - x402-paid fact-checking API for AI agents. Verifies claims against source material to catch hallucinations ($0.03 basic, $0.10 deep). MCP server included. [Website](https://github.com/Breakwater-ventures/hallucination-gate) [Github](https://github.com/Breakwater-ventures/hallucination-gate)
+
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

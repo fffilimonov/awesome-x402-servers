@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* agentsvc.io - 20 pay-per-call utility tools for AI agents (screenshots, OCR, PDF, web scraping, weather, forex, crypto/stock prices, DNS, geocoding, translation, and more). $0.001–$0.008 USDC per call. MCP server included. [Website](https://agentsvc.io) [MCP Server](https://agentsvc.io/mcp-server.mjs) [Catalog](https://agentsvc.io/api/v1/services)
 
 ---
 

@@ -6,6 +6,8 @@ Awesome Servers with x402 Payment Protocol Integration
 
 ---
 
+
+- [Example Tool](https://example.com) — Example tool description for awesome-x402-servers.
 ## 📄 What is x402?
 
 x402 is an open payment protocol built on top of HTTP using the long-reserved `402 Payment Required` status code. It enables AI agents, clients, and web services to conduct **autonomous pay-per-use payments** using stablecoins such as USDC on EVM-compatible blockchains.

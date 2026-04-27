@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Social Intel API - Instagram influencer search via x402 USDC. Single-profile lookup at $0.01 or full search $0.50–$1.30. USDC on Base, Solana, Polygon, Arbitrum. [Website](https://socialintel.dev) [MCP](https://glama.ai/mcp/servers/socialintel/social-intel-mcp) [GitHub](https://github.com/socialintel/socialintel-mcp)
 
 ---
 

@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Voidly Pay - x402 facilitator + agent payment rail (escrow, streams, subscriptions, batch payouts) with a marketplace of 17 paid endpoints. USDC settlement on Base via Sourcify-verified vault. SDKs for TypeScript, Python, LangChain, CrewAI, AutoGen, LlamaIndex, Pydantic AI, Vercel AI, and MCP. [Website](https://voidly.ai/pay) [GitHub](https://github.com/voidly-ai/voidly-pay)
 
 ---
 

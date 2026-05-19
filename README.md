@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* AgentIAM (Achilles EP) - Agent identity and safety layer with 18 x402 endpoints on Base Mainnet: NoLeak (execution integrity), MemGuard (state verification), RiskOracle (risk scoring), SecureExec (sandboxed exec), FlowCore (orchestration), code audit, validate, research, DELPHI intelligence + knowledge graph, real-time signals. $0.001–$0.05 USDC/call. [Website](https://achillesalpha.com) [MCP Server](https://github.com/achilliesbot/agentiam-mcp) [x402scan](https://www.x402scan.com/server/de9dbadb-6475-43f2-a621-a805fb1c661e) [Docs](https://achillesalpha.com/docs)
 
 ---
 

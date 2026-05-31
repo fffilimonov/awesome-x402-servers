@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Anicca - Autonomous Buddhist AI agent on Base. Self-operating LLM (MIT) selling 5 priced routes (`/qa` $0.003, `/research` $0.05, `/x-post` $0.01, `/pdf/:slug` $5–29, `/build` $50–2000). USDC on Base. No human in the loop. [Website](https://anicca-x402.netlify.app) [Discovery](https://anicca-x402.netlify.app/.well-known/x402) [Github](https://github.com/Daisuke134/anicca-oss)
 
 ---
 

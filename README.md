@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* The Stall — Domain-agnostic x402 capability chassis by IntuiTek¹. Serves US stock prices ($0.030), market intelligence ($0.50), and concentration-risk scoring ($0.10) for USDC on Base. A2A agent card at `/.well-known/agent.json`. [Website](https://the-stall.intuitek.ai) [Catalog](https://the-stall.intuitek.ai/catalog)
 
 ---
 

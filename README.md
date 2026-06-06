@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* TWZRD Agent Intel - Solana-native AI agent trust scoring via x402 — 8 MCP tools, signed V5 trust receipts settled in <1s. [Website](https://intel.twzrd.xyz) [Github](https://github.com/twzrd-sol/wzrd-final)
 
 ---
 

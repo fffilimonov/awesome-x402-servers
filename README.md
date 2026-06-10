@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* GPT-5.5 x402 API Gateway - Low-cost OpenAI-compatible GPT-5.5 chat completions and text tools with x402 USDC on Base. [Website](https://gpt55.558686.xyz) [Discovery](https://gpt55.558686.xyz/.well-known/x402) [OpenAPI](https://gpt55.558686.xyz/openapi.json)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

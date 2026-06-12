@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* Clawdbot by Suede Labs AI - Virtuals ACP agent on Base with 17 x402-gated HTTP 402 endpoints for music IP licensing. AI agents pay musicians in real time for licensed creative work using USDC micropayments. $SVID token: `0x2aed2c4dCB3D61938e36f3481dEFE553fac0ADbd` on Base. [Website](https://suedeai.ai)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

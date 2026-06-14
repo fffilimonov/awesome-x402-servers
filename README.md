@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* GPT55 x402 DeFi Agent Gateway - Low-cost x402 server for paid GPT55 chat plus DeFi/security agent tools, including smart contract risk scoring, approval risk auditing, token holder monitoring, gas route checks, bridge route pings, liquidation alerts, funding rates, slippage, arbitrage, MEV protection, yield pools, and fresh market scans. [Website](https://gpt55.558686.xyz) [Discovery](https://gpt55.558686.xyz/.well-known/x402) [OpenAPI](https://gpt55.558686.xyz/openapi.json)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

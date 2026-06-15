@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Superhighway - Web search API for AI agents (search, news, images, scrape, research) with pay-per-call x402 USDC on Base ($0.001/call). [Website](https://superhighway.walls.sh) [Github](https://github.com/patwalls/superhighway)
 
 ---
 

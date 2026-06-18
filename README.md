@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Suede AI - x402-payable creative IP API for music, video, musician tools, rights lookup, and audio analysis on Base USDC. [Website](https://suedeai.ai) [Discovery](https://app.suedeai.ai/.well-known/x402) [Agent Card](https://app.suedeai.ai/.well-known/agent-card.json)
 
 ---
 

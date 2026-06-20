@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* wrapper-agency - 8 pay-per-call utility API servers settled in USDC on Base via x402 (free tier + one shared key): historical FX rates, color conversion, timezone/DST, mock data, cron explainer, QR codes, data-format conversion, encode/hash. [Website](https://fx.wrapper-agency.com) [Github](https://github.com/Neta08-svg/historical-fx-rates)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

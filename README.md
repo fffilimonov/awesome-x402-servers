@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Magpie - Agent-native lending on Solana: borrow SOL against memecoin collateral, arm an in-vault take-profit/stop-loss on your own loan, repay — pay-per-call via x402 in USDC or native SOL, fully non-custodial. Standard x402 v2 (SVM `exact`) + native rail. [Website](https://x402.magpie.capital) [Discovery](https://x402.magpie.capital/.well-known/x402.json) [Github](https://github.com/magpiecapital/magpie-x402)
 
 ---
 

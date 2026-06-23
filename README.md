@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* Crest Counterparty Intelligence - Vet who your agent is about to pay over x402: real service vs relayer vs treasury vs buyer, wallet risk, a pre-action risk gate, and an agent credit bureau. Pay-per-call USDC on Base, no API keys. [Website](https://crestsystems.ai/intelligence) [API](https://data.crestsystems.ai) [MCP](https://data.crestsystems.ai/mcp)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

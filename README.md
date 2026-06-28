@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* 400860 Radar x402 API - Agent-payment safety, spend firewall, seller checkout repair, market intel, and paid MCP launch readiness tools. [Website](https://api.400860.xyz/) [OpenAPI](https://api.400860.xyz/openapi.json) [x402](https://api.400860.xyz/.well-known/x402) [Discovery Kit](https://github.com/go165/400860-x402-discovery-kit)
 
 ---
 

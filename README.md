@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Almanac Truth Suite - deterministic, *verifiable* physical-truth for agents: arcsecond-grade ephemeris (`/sky`) + official World Magnetic Model 2025 geomagnetic (`/field`), pay-per-call USDC on Base. Reproduces NOAA's published WMM test values to printed precision; never hallucinates. [Website](https://almanac.locomot.io) [Github](https://github.com/savecharlie/almanac)
 
 ---
 

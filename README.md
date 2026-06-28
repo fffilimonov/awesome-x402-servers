@@ -24,6 +24,9 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* chainfacts - Verifiable, deterministic token risk / rug-check API for pre-trade screening of any Base ERC-20: contract-security facts (proxy, ownership renounced, mint authority, paused), holder concentration (Gini/HHI/Nakamoto/top-N), and a 0-100 risk score - each report block-pinned with a reproducible sha256 attestation, so agents can trust the numbers without trusting the provider. 3 pay-per-call routes settled in USDC on Base via x402, no API key: token-risk-report ($0.01), batch-token-risk-screen (<=25 tokens, $0.005), onchain-snapshot-analyze ($0.003). [Website](https://chainfacts-x402.onrender.com)
+
+* wrapper-agency - 8 pay-per-call utility API servers settled in USDC on Base via x402 (free tier + one shared key): historical FX rates, color conversion, timezone/DST, mock data, cron explainer, QR codes, data-format conversion, encode/hash. [Website](https://fx.wrapper-agency.com) [Github](https://github.com/Neta08-svg/historical-fx-rates)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

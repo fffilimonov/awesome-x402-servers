@@ -25,6 +25,9 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Remote Signal API - Curated recruiting + indie-builder signal feed: 50 RemoteOK dev/SaaS jobs + 20 HN Show HN (15min cache). Free preview 5+3/day; full feed $0.02 USDC/req on Base. [API](https://affects-development-figure-packets.trycloudflare.com/x402/v1/signals) [Docs](https://gist.github.com/reckoning89/d87818b2020bbc27590df1fa0c42f175)
+* HN SaaS Teardown Feed - Structured Show HN growth intelligence: pricing model, acquisition channels, stack signals, comment velocity (15 cards, 15min cache). Free 3-card preview; full feed $0.05 USDC/req on Base. [Preview](https://affects-development-figure-packets.trycloudflare.com/x402/v1/teardowns/preview) [API](https://affects-development-figure-packets.trycloudflare.com/x402/v1/teardowns)
+* Micro-SaaS Flip Lead Feed - Time-sensitive acquisition listings for scout agents: HN Algolia + Indie Hackers cross-links + Reddit r/SaaS (7-day window, flip_signals + urgency_score). Free 3-lead preview; full feed $0.05 USDC/req on Base. [Preview](https://affects-development-figure-packets.trycloudflare.com/x402/v1/saas-flip-leads/preview) [API](https://affects-development-figure-packets.trycloudflare.com/x402/v1/saas-flip-leads)
 
 ---
 

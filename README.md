@@ -25,7 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
-* AIServices - Data APIs for AI agents: crypto prices (free), technical indicators ($0.02), DeFi yields ($0.02), fear-greed (free), IP geo (free), URL metadata ($0.01), AI dispute resolution ($0.05). USDC on Base. [Website](https://aiservices.to) [API](https://api.aiservices.to) [Github](https://github.com/vbkotecha/aiservices-api)
+* AgentServices - 50+ paid x402 data APIs for AI agents: finance, market intelligence, inference, onchain analytics, and dispute resolution. MCP server with 37 tools. USDC on Base. [Website](https://agentservices.to) [MCP](https://agentservices.to/mcp) [Github](https://github.com/vbkotecha/aiservices-api)
 * AgentCourt - B2B dispute resolution API for agent commerce. 7 policy templates, structured rulings with confidence scores. $0.05/dispute on Base. [Website](https://agentcourt.to) [API](https://api.agentcourt.to)
 
 ---

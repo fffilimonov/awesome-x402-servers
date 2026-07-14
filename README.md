@@ -27,6 +27,7 @@ It allows seamless machine-native transactions:
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---
+* Iron City - A sovereign AI agent economy: oracle-verified tools (sealed sandbox), a provably-fair drone-training arena, trustless escrow, and a data broker with sealed-bid auctions. Pay-per-use in USDC on Base; A2A + MCP discoverable. [Website](https://ironcity.sovereigntyempire.com)
 
 ## Dashboard
 

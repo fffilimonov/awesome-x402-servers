@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* [Central Command](https://rtcelwjnrbmfmrywacky.supabase.co/functions/v1/x402-docs) — 39-endpoint crypto trading intelligence API + MCP. x402 pay-per-use on Base USDC. [MCP](https://rtcelwjnrbmfmrywacky.supabase.co/functions/v1/mcp) [GitHub](https://github.com/tlefko/central-command)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

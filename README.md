@@ -2,11 +2,11 @@
 
 Awesome Servers with x402 Payment Protocol Integration
 
-> 📅 Updated for June 2025 release of x402 Whitepaper and Protocol Specs
+> ðŸ“… Updated for June 2025 release of x402 Whitepaper and Protocol Specs
 
 ---
 
-## 📄 What is x402?
+## ðŸ“„ What is x402?
 
 x402 is an open payment protocol built on top of HTTP using the long-reserved `402 Payment Required` status code. It enables AI agents, clients, and web services to conduct **autonomous pay-per-use payments** using stablecoins such as USDC on EVM-compatible blockchains.
 
@@ -22,9 +22,10 @@ It allows seamless machine-native transactions:
 
 ---
 
-## 📁 Community Servers
+## ðŸ“ Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Vibes-Coded Agent Tools — 100+ Solana USDC x402 pay-per-call reliability/guards + MCP. [Website](https://vibes-coded.com) [MCP](https://github.com/doteyeso-ops/mcp-server-vibes-coded) [x402scan](https://www.x402scan.com/server/4b7dfd09-620f-4131-bf6e-a0a543bae1f0)
 
 ---
 
@@ -41,15 +42,15 @@ It allows seamless machine-native transactions:
 
 ---
 
-## 📅 Supported Schemes
+## ðŸ“… Supported Schemes
 
 * **exact** (current): Uses EIP-3009 (`transferWithAuthorization`)
-* **permit** (experimental): Uses EIP-2612 (`permit`) — enables streaming / usage-based payments via routing contracts.
+* **permit** (experimental): Uses EIP-2612 (`permit`) â€” enables streaming / usage-based payments via routing contracts.
 * Future: Hybrid escrow-based settlement and multicall batching.
 
 ---
 
-## 💪 Why x402?
+## ðŸ’ª Why x402?
 
 * Built for **agentic commerce**
 * Instant micropayments (\$0.001 per request possible)
@@ -58,14 +59,14 @@ It allows seamless machine-native transactions:
 
 ---
 
-## 🔎 Further Reading
+## ðŸ”Ž Further Reading
 
 * [x402 Whitepaper (May 2025)](https://x402.org)
 * [EIP-3009 Spec](https://eips.ethereum.org/EIPS/eip-3009)
 * [Docs](https://x402.gitbook.io/)
 ---
 
-## 📗 Community
+## ðŸ“— Community
 
 * [Reddit x402](https://www.reddit.com/r/x402)
 * [Discord - Coinbase Developer Platform](https://discord.gg/invite/cdp)

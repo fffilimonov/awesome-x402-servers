@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* vector402 - Machine-payable radio-frequency positioning and node-registration API. Position queries, node status, registration endpoints. Live on Solana (USDC), Base (USDC), Algorand (USDCa) via GoPlausible facilitator. $0.001–$0.10 per call. [Website](https://vector402.b-cdn.net) [Discovery](https://vector402.b-cdn.net/.well-known/x402)
 
 ---
 

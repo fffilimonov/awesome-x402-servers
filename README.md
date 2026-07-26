@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* AfaAgent x402 API Suite - 43 production-grade APIs (DeFi, wallet security, AI/ML, developer tools, SEO) with pay-per-call USDC micropayments on Base. MCP server included. [Website](https://afaagent-x402-api.storm-fly.workers.dev) [Github](https://github.com/AfaAgent/x402-api-suite)
 
 ---
 

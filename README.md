@@ -24,6 +24,9 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* SQLGuard - Execution Certificate Firewall for agent SQL writes. Micro ## 📁 Community Servers
+.10 x402 on Base. [Website](https://sqlguard.io) [Catalog](https://sqlguard.io/v1/catalog) [Proof](https://sqlguard.io/PROOF.md) [MCP](https://github.com/cabbageandtea/sqlguard)
+
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

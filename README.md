@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Scramble - Feed a real on-chain cat: $0.10 USDC on Base buys a purr, kibble state is read live from the wallet. Free `GET /api/pet` to probe, and a testnet twin on Base Sepolia so agents can rehearse the exact flow with free faucet USDC. [Website](https://scramble.wibandwob.com) [Agent manual](https://scramble.wibandwob.com/skill.md)
 
 ---
 

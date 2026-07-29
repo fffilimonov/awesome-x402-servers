@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* InsumerAPI - Signed on-chain condition checks (token balance, NFT, EAS, agent standing) across 38 chains, pay-per-call over x402 in USDC on Base, no API key. [Website](https://insumermodel.com/ai-agent-verification-api/) [Discovery](https://insumermodel.com/.well-known/x402)
 
 ---
 

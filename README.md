@@ -24,9 +24,9 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
-* Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
-
 ---
+* Colombia TRM - Official Superfinanciera USD/COP prepaid x402 ($0.005 USDC on Base). [Website](https://x402.lagaceta.net/trm) [Github](https://github.com/unicentrocucuta/pe-x402-gateway)
+* Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ## Dashboard
 

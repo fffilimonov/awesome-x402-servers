@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Solana Pulse XaaS - Jupiter quotes, web search, HTTPS extract, and package preflight over HTTP 402 on Solana USDC. Free `/sample`. [Website](https://lobby-laptop-shame-achieved.trycloudflare.com/) [Github](https://github.com/TommoHCIO/solana-ecosystem-pulse) [MCP](https://lobby-laptop-shame-achieved.trycloudflare.com/mcp)
 
 ---
 

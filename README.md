@@ -25,7 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
-* Agent402 - 500+ pay-per-call web tools for AI agents (headless browser, web search, PDF, durable wallet-keyed memory, 200+ pure-CPU utilities). USDC on Base + 9 more chains (or USDG on Robinhood Chain), or free via proof-of-work. Hosted MCP connector + non-custodial buyer SDK. Open-source and self-hostable. [Website](https://agent402.tools) [Github](https://github.com/MikeyPetrillo/Agent402) [MCP](https://agent402.tools/mcp) [Discovery](https://agent402.tools/.well-known/x402)
+* Agent402 - the applied layer of Agentic Finance (AIFI): 500+ pay-per-call web tools for AI agents (headless browser, web search, PDF, durable wallet-keyed memory, 200+ pure-CPU utilities). USDC on Base + 10 more chains (or USDG on Robinhood Chain; 12 total), or free via proof-of-work; every paid endpoint answers x402 and MPP (Machine Payments Protocol) on the same 402. Hosted MCP connector + non-custodial buyer SDK. Open-source and self-hostable. [Website](https://agent402.tools) [Github](https://github.com/MikeyPetrillo/Agent402) [MCP](https://agent402.tools/mcp) [Discovery](https://agent402.tools/.well-known/x402)
 
 ---
 

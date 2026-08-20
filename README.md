@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* agent-dust - Tiny x402-paid oracles for agents on Base and Solana mainnet. [Website](https://home.chrz.dev/agent-dust/) [Github](https://github.com/k2riddim/agent-dust)
 
 ---
 

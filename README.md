@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Crawlier Studio - Pay-per-call image & voice AI generation (image-01/02 + speech-02-turbo). Base USDC, no API key. [Endpoint](https://48e0cb905290ad.lhr.life) [x402](https://48e0cb905290ad.lhr.life/.well-known/x402.json) [Source](https://github.com/TonyGlezx/crawlier-studio)
 
 ---
 

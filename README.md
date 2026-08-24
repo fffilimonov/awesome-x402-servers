@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* [54ch10 Toolkit](https://54ch10.uk) - Pre-interact risk briefs + whois/dns/tls/normalize-url micropay APIs for agents (x402 USDC on Base). MCP: `npx -y github:sachio222/54ch10-mcp`. Analytics-only. [Github](https://github.com/sachio222/54ch10-mcp)
 
 ---
 

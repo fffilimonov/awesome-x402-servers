@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* Munchausen Lab Analytics - Six pay-per-call x402 endpoints for AI agents on Base (USDC, no API keys): real-time crypto quotes ($0.01), LLM market analysis ($0.05), full research reports ($0.25), URL-to-clean-text scraping ($0.005), claim fact-checking with verdict+confidence ($0.02), EVM token rug-pull risk scoring ($0.01). [Website](https://munchausen-x402.munlab.workers.dev) [Discovery](https://munchausen-x402.munlab.workers.dev/.well-known/x402) [OpenAPI](https://munchausen-x402.munlab.workers.dev/openapi.yaml)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

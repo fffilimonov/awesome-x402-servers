@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* Clear - Fetch a public URL as markdown. POST /v1/fetch, $0.005 USDC on Base via x402 / PayAI. Fail is free. [Website](https://clear-agent-fetch.fly.dev) [Github](https://github.com/curyous/clear-agent-fetch)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* OpusHunter API - Five pay-per-call utility endpoints for AI agents (secret scanning, agent config generation, URL check with response time, summarization, JSON validation). $0.001-$0.005 USDC per call on Base via x402, no signup. [Website](http://32.197.197.147:4021)
 
 ---
 

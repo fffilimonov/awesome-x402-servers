@@ -25,6 +25,11 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* PDF Extract API - Structured JSON from any PDF, $0.02/call. [Website](https://pdf-extract-api.pdfextractapi.workers.dev)
+* Content Risk Scanner - Prompt-injection / malicious-instruction detection in untrusted text, $0.01/call. [Website](https://content-risk-scanner.pdfextractapi.workers.dev)
+* PII Redactor - Detect and redact names, emails, phone numbers, card numbers, addresses, $0.02/call. [Website](https://pii-redactor.pdfextractapi.workers.dev)
+* Receipt Normalizer - Canonical structured purchase records from receipts/invoices, $0.03/call. [Website](https://receipt-normalizer.pdfextractapi.workers.dev)
+* Claim Verifier - Fact-check a claim against live web search with cited sources, $0.04/call. [Website](https://claim-verifier.pdfextractapi.workers.dev)
 
 ---
 

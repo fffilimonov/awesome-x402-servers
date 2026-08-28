@@ -25,6 +25,8 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Saymon RU Data API — Russian-language data APIs + LLM Chat (Claude, GPT, DeepSeek via AnyModel). [Website](https://payforapi.com) [Docs](https://payforapi.com/llms.txt) [GitHub](https://github.com/saymon-agent)
+  Endpoints: INN lookup ($0.01), Cyrillic web search ($0.02), RU→Markdown ($0.01), Research deep ($0.05), Russian Post APIs ($0.01 each) + LLM Chat: Claude Opus 5 ($0.01), GPT-5.6 Sol ($0.01), DeepSeek V4 Pro ($0.002) — OpenAI-compatible.
 
 ---
 

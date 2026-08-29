@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* AgentShop - Seven x402 pay-per-call tools for agents (URL→Markdown, DEX snapshots, metadata, weather, FX, Wikipedia, HN). USDC on Base. [Website](https://x402.bankr.bot/0x40ac5d07e1426e4626ed0989b8ff26e932b76555/webmark) [Github](https://github.com/googlepro1/x402-agentshop)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

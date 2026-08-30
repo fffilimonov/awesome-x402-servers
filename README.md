@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* 402Signal - Fail-closed live-endpoint x402 router. POST /route, $0.01 USDC on Base, Solana, Algorand. [Website](https://402signal.com) [MCP](https://402signal.com/mcp.json)
 
 ---
 

@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* AEO Schema Forge — Pay-per-call AEO/SEO structured-data service for AI-search readiness. Generates valid Schema.org JSON-LD, `llms.txt` and FAQ blocks, and audits any live URL's AI-citation readiness with the exact fixes. USDC on Base, x402 v2 (`exact` / EIP-3009), no keys or accounts. [Service](https://157-245-134-68.sslip.io/health) [Discovery](https://157-245-134-68.sslip.io/.well-known/x402)
 
 ---
 

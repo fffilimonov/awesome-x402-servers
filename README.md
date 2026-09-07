@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* [Council of AI](https://councilof.ai/mcp) - Independent AI-behaviour measurement. Free board and verify; paid evidence tools over x402 USDC on Base. Not a score or certificate.
 
 ---
 

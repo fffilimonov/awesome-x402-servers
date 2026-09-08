@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Veriton HTML→JSON - Metered HTML→structured JSON for agents ($0.02/$0.05 USDC Base, HTTP 402). [Docs](https://veriton-dev.github.io/veriton-micro-dev/api/) [Discovery](https://seed-trek-trainers-ross.trycloudflare.com/.well-known/x402) [Github](https://github.com/veriton-dev/veriton-micro-dev)
 
 ---
 

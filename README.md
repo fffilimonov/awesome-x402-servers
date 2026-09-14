@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Penniless Data Utilities - Nine deterministic AI-agent data and lookup utilities (JSON repair, YAML→JSON, cron next-run, text diff/extract, HTML→text, RDAP WHOIS, DNS-over-HTTPS, GitHub repo stats, email validation), paid per call with x402 v2 USDC on Base. Hosted MCP at `https://penniless-json-repair.sjaman.workers.dev/mcp`; `tools/list` is free. [Website](https://penniless-json-repair.sjaman.workers.dev) | [Discovery](https://penniless-json-repair.sjaman.workers.dev/.well-known/agent.json)
 
 ---
 

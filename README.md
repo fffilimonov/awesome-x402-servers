@@ -70,3 +70,4 @@ It allows seamless machine-native transactions:
 * [Reddit x402](https://www.reddit.com/r/x402)
 * [Discord - Coinbase Developer Platform](https://discord.gg/invite/cdp)
 * [GitHub - x402](https://github.com/coinbase/x402)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.

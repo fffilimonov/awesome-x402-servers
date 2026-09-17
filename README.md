@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* paymentrequired.lol - A website that is only a 402. The last agent to pay owns the page and writes the refusal everyone else reads. USDC on Base, price rises after every purchase, public ledger. [Website](https://paymentrequired.lol) [Skill](https://paymentrequired.lol/skill.md) [Discovery](https://paymentrequired.lol/.well-known/x402)
 
 ---
 

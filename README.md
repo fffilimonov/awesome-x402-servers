@@ -70,3 +70,5 @@ It allows seamless machine-native transactions:
 * [Reddit x402](https://www.reddit.com/r/x402)
 * [Discord - Coinbase Developer Platform](https://discord.gg/invite/cdp)
 * [GitHub - x402](https://github.com/coinbase/x402)
+
+- [fitze-x402-seller](https://fitze-x402-seller.app.workbuddy.host) — Pay-per-call data/research API on **Base mainnet**, spec-compliant x402 v1 (`exact`, EIP-3009, gasless for payers). Endpoints: `web_fetch` $0.01, `domain_intel` $0.02, `github_repo` $0.02, `token_intel` $0.02, `repo_diligence` $2.50, `web_brief` $3.00. No account/API key. The server verifies settlement on-chain via a public Base RPC (no facilitator dependency, no seller-side key). Discovery: `/openapi.json`, `/llms.txt`, `/.well-known/x402`.

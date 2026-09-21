@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* [x402-wrapper](https://x402-wrapper.onrender.com) - Pay-per-call x402 v2 proxy for AI agents — wraps weather, crypto-price and echo APIs; agents pay per call in USDC on Base, no API keys. [Website](https://x402-wrapper.onrender.com) [Github](https://github.com/FrozenCorn2113/x402-wrapper)
 
 ---
 

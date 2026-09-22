@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Vend API Merchant - Pay-per-call API marketplace settled in Nano (XNO) via the x402 exact scheme. 8 live endpoints: web extract, link checker, URL status, domain intelligence, web search, geoip, nano account info. No signup, no API keys, no subscriptions. [Website](https://extract.paypercall.dev) [x402 manifest](https://extract.paypercall.dev/.well-known/x402)
 
 ---
 

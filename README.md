@@ -25,6 +25,8 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Feeless 402 / Nano - x402 exact-scheme facilitator accepting Nano (`nano:mainnet`) — feeless, sub-second finality, no gas floor. [Facilitator](https://facilitator.pursekeeper.dev/supported) [Exact scheme impl](https://github.com/x402nano/exact)
+* Nano settlement receipt verifier - prove a Nano payment settled (amount, account, finality) with no node and no trust. [nano-settlement-verify](https://github.com/dhyabi2/nano-settlement-verify)
 
 ---
 

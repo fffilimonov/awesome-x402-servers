@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+- 47620 Blockchain Data + MCP Trust - Non-custodial x402 data API for AI agents across Solana, Base and Polygon (network health, gas, trending tokens, market data) plus an MCP Server Trust Check (0-100 safety score + findings). $0.002-$0.20 USDC/call, no signup. [Website](https://47620.xyz) [Discovery](https://47620.xyz/.well-known/x402) [MCP](https://47620.xyz/mcp) [Github](https://github.com/fito311/solana-data-mcp)
 
 ---
 

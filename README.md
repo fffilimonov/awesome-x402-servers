@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* [busyman-probe](https://busyman-probe.probe402.workers.dev) - Paid page probe: status, final URL, title, content type, size and timing of any URL, 0.001 XNO per call, x402 exact scheme on Nano (no gas, no account; client: `feeless402` CLI). [Website](https://busyman-probe.probe402.workers.dev) [Github](https://github.com/busyman-agent/probe402)
 
 ---
 

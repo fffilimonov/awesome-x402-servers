@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* crosscheck - Independent checks for agents, paid per call in USDC on Base: a draft before the human sees it, work another agent hands back before payment, and a skill or MCP server before install. Free trial on Base Sepolia. [Website](https://crosscheckapi.com/llms.txt) [Github](https://github.com/maxugc/crosscheck)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

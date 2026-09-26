@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* [x402-ping](https://github.com/filip-study/x402-ping) - Cheap Base USDC exact-x402 health/smoke ping for agent payment rails. Live Worker `GET /premium` → HTTP 402 exact $0.05 USDC on Base (`eip155:8453`) payTo treasury; free discovery at `/.well-known/x402`. [Live](https://x402-ping.palmbeachpete.workers.dev) · [Unlock](https://shieldz.cash/unlock/NDS0MgohhA3PmPaBvmD0) · [Tip](https://shieldz.cash/tip/tip-d2599a4d16a6f4b0)
 
 ---
 

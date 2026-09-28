@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* x402 Paywall API - Pay-per-call API for any tool (live, USDC on Base-Sepolia). [Website](https://x402-paywall-bgl2ek1ck-solmount.vercel.app) [Github](https://github.com/breezesamuel/x402-paywall)
 
 ---
 

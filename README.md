@@ -27,6 +27,7 @@ It allows seamless machine-native transactions:
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---
+- [bilbop](https://api.bilbop.org) - Solana USDC x402 sellers: mint info / token brief / summarize ($0.01), Piper TTS ($0.025), WURK brand feedback ($0.50). ([x402](https://api.bilbop.org/.well-known/x402) | [OpenAPI](https://api.bilbop.org/openapi.json))
 
 ## Dashboard
 

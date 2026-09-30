@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* x402-api - Eight paid crypto/DeFi data endpoints using CoinGecko/CoinLore, public RPCs, ParaSwap, GoPlus, DefiLlama, Hyperliquid/dYdX, and Blockscout. USDC micropayments on Base; MCP server and ElizaOS plugin available. [Website](https://x402-api.fly.dev) [Runnable workflows](https://x402-api.fly.dev/demos/?utm_source=github) [Agent catalog](https://x402-api.fly.dev/.well-known/x402) [MCP](https://registry.modelcontextprotocol.io/?q=io.github.fernsugi%2Fx402-api) [GitHub](https://github.com/fernsugi/x402-api-server)
 
 ---
 

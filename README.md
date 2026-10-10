@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* PickleCheck - Risk signals for Base tokens and phishing URLs for AI agents: honeypot/sell simulation, liquidity and LP-lock checks, top-holder concentration, AVOID/CAUTION/VERIFY_MORE/OK verdicts. $0.008 USDC per check via x402 on Base. Beta: grab your 10 free checks a day, and we'd love your advice via POST /feedback. [Website](https://picklecheck.onrender.com) [Guide](https://picklecheck.onrender.com/llms.txt)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

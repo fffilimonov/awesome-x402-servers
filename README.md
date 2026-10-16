@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Money Reactor — agent-native paid micro APIs for AI agents: funded crypto bounty radar (escrow-backed Base USDC + GitHub bounties, trust-filtered) and honeypot/rug trust scoring. Per-call x402 (USDC on Base), $0.001–$0.01, no accounts. [Github](https://github.com/makar52nn2016-jpg/money-reactor) [MCP](https://github.com/makar52nn2016-jpg/money-reactor#mcp)
 
 ---
 

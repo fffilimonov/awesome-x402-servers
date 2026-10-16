@@ -23,6 +23,7 @@ It allows seamless machine-native transactions:
 ---
 
 ## 📁 Community Servers
+* [Vend Browser Agent](https://extract.paypercall.dev/api/v1/browser-agent) — Pay-per-call browser automation and stealth scraping over x402, settled in Nano (XNO); no account or API key.
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 

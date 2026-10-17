@@ -70,3 +70,5 @@ It allows seamless machine-native transactions:
 * [Reddit x402](https://www.reddit.com/r/x402)
 * [Discord - Coinbase Developer Platform](https://discord.gg/invite/cdp)
 * [GitHub - x402](https://github.com/coinbase/x402)
+
+- **[Agent Kiosk](https://agent-kiosk.vercel.app)** ([GitHub](https://github.com/ralf9090/agent-kiosk)) - 19-in-1 Autonomous B2A Intelligence, Executable DeFi Swap Calldata (`defi_swap_quote`), AML/OFAC Compliance Screening (`compliance_check`), & Security Supermarket settled in Base USDC via x402 v2/v1 and Model Context Protocol (`https://agent-kiosk.vercel.app/mcp`).

@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Panthera x402 Gateway & MCP Server - 22 pay-per-call AI agent, OpenAI `/v1/chat/completions`, live web search, Solana JSON-RPC, URL-to-Markdown, Solana tx simulation, SPL rug-pull audit, Honeypot threat-intel & OSINT endpoints on Solana Mainnet USDC ($0.001-$0.10). [x402scan](https://www.x402scan.com/server/293f0905-4549-4bf0-95b3-db8c4df1dbee) [MCP](https://rklhfyeyw0.execute-api.ap-south-1.amazonaws.com/mcp) [GitHub](https://github.com/MrKGaja/panthera-x402-mcp)
 
 ---
 

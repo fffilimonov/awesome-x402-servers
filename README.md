@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* Astra market data - Pay-per-call crypto market data for AI agents (coin price $0.01, top-100 snapshot $0.05, daily brief $0.25; USDC on Base). [Website](https://astra-x402-data.astratc.workers.dev) [Github](https://github.com/astratc/x402-crypto-data-example)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

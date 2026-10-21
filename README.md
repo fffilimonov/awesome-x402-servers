@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* YRUZ - 269 pay-per-call x402 v1/v2 endpoints for AI agents, USDC on Solana or Base: live crypto prices, Solana token rug check, wallet portfolio, web page to Markdown, domain intel, site audit, social data and 110+ utilities. [Website](https://yruz.one) [Discovery](https://yruz.one/.well-known/x402) [OpenAPI](https://yruz.one/openapi.json)
 
 ---
 

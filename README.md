@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Base Oracle - Read-only computed-data API for AI agents on Base (token-safety reports, wallet reports), $0.05 USDC per call, canonical x402 challenge, no facilitator. [Website](https://arturo-epiphytical-torrie.ngrok-free.dev) [Github](https://github.com/viniciusguardaa-cpu/base-oracle)
 
 ---
 

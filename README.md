@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* x402 Agent APIs - Pay-per-call chat completions, email check, package check and SEC EDGAR data on Base USDC, prices $0.001-0.005. [Website](https://golf-evm-math.x402-evm-math.workers.dev/llms.txt) [Github](https://github.com/overwatchdominion-stack/x402-agent-apis)
 
 ---
 

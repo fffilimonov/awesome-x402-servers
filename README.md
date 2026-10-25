@@ -24,6 +24,9 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* agent-audit - Read-only x402 seller audit, link check, and quote/citation check (Base USDC). [Website](https://agent-audit.agent-audit.workers.dev/) [llms.txt](https://agent-audit.agent-audit.workers.dev/llms.txt)
+* page-read - Pay-per-call page reader to clean text via x402 ($0.001 Base USDC). [Website](https://page-read.agent-audit.workers.dev/) [llms.txt](https://page-read.agent-audit.workers.dev/llms.txt)
+
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

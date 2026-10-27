@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* Cian Endpoint Audit - HTTP endpoint health audit for one URL: final status and the full redirect chain, latency p50/p95/max over three samples, TLS protocol, cipher, days to expiry and issuer, the response headers that matter, and machine-readable anomaly ids. 0.01 USDC per call on Base via x402. [Website](https://cian-x402.netlify.app/) [Github](https://github.com/cian-spider/cian-endpoint-audit)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

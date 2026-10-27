@@ -28,6 +28,12 @@ It allows seamless machine-native transactions:
 
 ---
 
+## Buyer-side MCP Tools
+
+* Agent Payment Node - Local stdio MCP server for x402 offer inspection, bounded payment preparation and status/receipts; Apple Silicon macOS and Node 24 only. [Github](https://github.com/nuanu-ai/agent-payment-node)
+
+---
+
 ## Dashboard
 
 * Base Mainnet Charts by programmer [Dune Analytics](https://dune.com/programmer/x402-base-mainnet)

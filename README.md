@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* Pulse402 - High-frequency consumable x402 data oracle delivering real-time Base DEX liquidity, Polymarket probability velocity, and cross-DEX arbitrage routes for AI agents. [Website](https://pulse402-oracle.ak10082247.workers.dev) [Github](https://github.com/ak10082247-max/pulse402-oracle)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

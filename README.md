@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Open Rails Data Agent - Pay-per-call Celo blockchain data API (block, gas price, balances, tx/receipt, ERC-8004 identity URI) over x402, USDC on Celo (eip155:42220). [Website](https://open-rails-data-agent.shablony-pro.workers.dev) [Manifest](https://open-rails-data-agent.shablony-pro.workers.dev/.well-known/x402)
 
 ---
 

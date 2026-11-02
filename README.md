@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Verrow - Sourced rural public data MCP for agents: zoning, decisions, soil, wind, airspace, licenses, and site reports. [Website](https://github.com/BradenTabor/verrow-mcp) [MCP](https://api.verrow.ai/mcp)
 
 ---
 

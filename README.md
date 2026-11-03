@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* Keenable - Web search and page fetch API for AI agents, $0.01 USDC per request on Base via x402 (`/v1/x402/search`, `/v1/x402/fetch`). [Website](https://keenable.ai) [Github](https://github.com/keenableai/keenable-mcp)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

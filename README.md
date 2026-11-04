@@ -70,3 +70,5 @@ It allows seamless machine-native transactions:
 * [Reddit x402](https://www.reddit.com/r/x402)
 * [Discord - Coinbase Developer Platform](https://discord.gg/invite/cdp)
 * [GitHub - x402](https://github.com/coinbase/x402)
+
+- **[NEXUS A2A & MCP Services](https://github.com/Lauty1982/nexus-a2a-services)** — Anti-bot residential web scraping + 14B LLM structured JSON extraction (`$0.03 USDC`) and Base L2 smart contract honeypot auditing (`$0.01 USDC`), supporting standard `x402` (`exact` / gasless EIP-3009 on Base), prepaid `X-API-Key` credits, and native Model Context Protocol (`MCP`) stdio tools.

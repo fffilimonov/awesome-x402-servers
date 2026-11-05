@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* [AgentReader](https://api.axiomworks.co.uk) — pay-per-call web reader, company research, UK Companies House due diligence, PDF/DOCX conversion and change monitors for AI agents. USDC on Base via x402. MCP: https://api.axiomworks.co.uk/mcp · [Github](https://github.com/grokbot1233/agentreader)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

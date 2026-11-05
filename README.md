@@ -26,6 +26,9 @@ It allows seamless machine-native transactions:
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
+* [Northline WebKit](https://northline-webkit.northline-c86.workers.dev) — Pay-per-call web tools for agents (URL→markdown, DNS, email/domain checks). x402 + USDC on Base, MCP included. [GitHub](https://github.com/northlinebuilds/northline-webkit)
+* [Northline ChainKit](https://northline-chainkit.northline-c86.workers.dev) — Pay-per-call Base + Arc onchain facts (address profile, USDC payment verify, tx explain). x402 + USDC on Base, MCP included. [GitHub](https://github.com/northlinebuilds/northline-chainkit)
+
 ---
 
 ## Dashboard

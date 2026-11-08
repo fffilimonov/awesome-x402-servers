@@ -24,7 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
-* DrinkedIn - Licensed drinking-premises data, cocktail recipes, real bar lookups and a simulated agent bar (no real alcohol), over REST and hosted MCP. Paid calls return HTTP 402 with x402 `accepts` (USDC on Base) and accept a standard `X-PAYMENT` retry. [Website](https://drinkedin.net) [Discovery](https://drinkedin.net/.well-known/x402)
+* DrinkedIn - Pay-per-request alcohol-premises data from public registers, plus a cocktail dataset, over REST. Paid calls return HTTP 402 with x402 `accepts` (USDC on Base). [Website](https://drinkedin.net/data) [Discovery](https://drinkedin.net/.well-known/x402)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

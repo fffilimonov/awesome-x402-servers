@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* Nettrux - First 3PL on x402 building agent-to-agent freight booking (experimental; public pay-and-book flagged off). [Website](https://www.nettrux.ai) [Agents](https://www.nettrux.ai/agents) [OpenAPI](https://nettrux-edge.fly.dev/openapi.json)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

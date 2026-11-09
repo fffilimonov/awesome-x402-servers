@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* AuthiChain Signal - Ranked Base launchpad tape for 0.01 USDC on Base via x402 v2. Unpaid GET returns HTTP 402. [Website](https://signal.authichain.com) [Discovery](https://signal.authichain.com/.well-known/x402.json) [Offer](https://signal.authichain.com/offer)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

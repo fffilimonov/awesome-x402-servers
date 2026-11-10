@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Trading Signals Toolkit - Pay-per-call pre-trade checks, event-risk gates, SEC insider buys, Base token verdicts, and quant calculators for AI agents. [Website](https://signals.incomefather.com) [Github](https://github.com/gdietsch/trading-signals-mcp)
 
 ---
 

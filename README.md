@@ -24,6 +24,8 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* agent-fleet - Iranian and Persian verification and data tools for agents: national code, bank card and Sheba (IBAN) checks, mobile number to operator and province, postal code, licence plate, passport MRZ check digits, Jalali and lunar Hijri dates, RTL text safety. Hosted MCP at https://agent-fleet-ppqpwu.camelai.app/mcp (no key); 59 of 76 tools free, priced calls 0.002-0.02 USDC over x402 on Solana or Base. [Website](https://agent-fleet-ppqpwu.camelai.app) [Github](https://github.com/Elviro2658/agent-fleet-mcp)
+
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

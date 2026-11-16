@@ -26,6 +26,8 @@ It allows seamless machine-native transactions:
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
+* COINOP - x402-payable arcade play endpoint: 0.25 USDC starts a server-authoritative game session (Block Stacker, Snake, Brick Breaker) and earns 25 QTR per settled play. [Website](https://coinop-one.vercel.app) [Github](https://github.com/AdamWashingtonIII/coinop) [Discovery](https://coinop-one.vercel.app/api/discovery)
+
 ---
 
 ## Dashboard

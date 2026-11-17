@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Screwtape - Checks whether a seller is safe to pay before an agent pays. x402 payment-check at $0.005 per call. [Website](https://screwtape.ai) [Github](https://github.com/screwtapeai/screwtape-examples)
 
 ---
 

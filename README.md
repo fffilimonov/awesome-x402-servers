@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Chain Hunter On-Chain Oracle - Pay-per-call on-chain data and light compute for AI agents: Solana token rug-risk (top-holder concentration, mint/freeze authorities), Base/Arbitrum/Optimism gas and recent-block RPC pulse, Stellar account health, QUBO/QAOA solver, per-second solver streaming (0.0002 USDC/s), anti-honeypot tx simulation and a code sandbox. 0.005-0.05 USDC per call in USDC on Base via x402 v1. [Website](https://alcohol-congratulations-filters-acres.trycloudflare.com) [Discovery](https://alcohol-congratulations-filters-acres.trycloudflare.com/.well-known/x402.json)
 
 ---
 

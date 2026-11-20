@@ -25,7 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
-* Chain Hunter On-Chain Oracle - Pay-per-call on-chain data, defensive code review and light compute for AI agents: NVIDIA NIM defensive code review (0.15 USDC) and verified code fix (0.10 USDC), Solana token rug-risk with top-holder concentration and mint/freeze authorities, Base/Arbitrum/Optimism gas and RPC pulse, Stellar account health, QUBO/QAOA solver, per-second solver streaming, anti-honeypot tx simulation and a Python/Solidity/Rust sandbox. 0.01-0.15 USDC per call in USDC on Base (0.0005 USDC/s for the streaming session) via x402 v1. [Website](https://alcohol-congratulations-filters-acres.trycloudflare.com) [Discovery](https://alcohol-congratulations-filters-acres.trycloudflare.com/.well-known/x402.json)
+* Chain Hunter On-Chain Oracle - Pay-per-call on-chain data, defensive code review and light compute for AI agents: NVIDIA NIM defensive code review (0.15 USDC) and verified code fix (0.10 USDC), Solana token rug-risk with top-holder concentration and mint/freeze authorities, Base/Arbitrum/Optimism gas and RPC pulse, Stellar account health, QUBO/QAOA solver, per-second solver streaming, anti-honeypot tx simulation and a Python/Solidity/Rust sandbox. 0.01-0.15 USDC per call in USDC on Base (0.0005 USDC/s for the streaming session) via x402 v1. [Website](https://pfq-opencode-wr96rj6p4xwwh59v-8001.app.github.dev) [Discovery](https://pfq-opencode-wr96rj6p4xwwh59v-8001.app.github.dev/.well-known/x402.json)
 
 ---
 

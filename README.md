@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* AutoTasker Hub - 100+ pay-per-call data APIs (China trending, search, finance) on Base USDC. [Website](https://autotasker.highkingflower.com/market/) [GitHub](https://github.com/breezesamuel)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

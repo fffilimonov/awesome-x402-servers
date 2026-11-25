@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* Atris x402 API - Pay-per-request checked AI inference (`team-1`), published agents (`agent-1`), AEO visibility audits, brand design extraction, verified PDF parsing, and YouTube discovery in Base USDC with zero API keys. [Discovery](https://api.atris.ai/.well-known/x402) [OpenAPI](https://api.atris.ai/x402/openapi.json) [SKILL.md](https://api.atris.ai/SKILL.md) [x402scan](https://www.x402scan.com/server/94aa677d-d793-49c0-8537-a93254c1d552)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

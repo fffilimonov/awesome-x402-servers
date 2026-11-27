@@ -24,6 +24,8 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* FMF Proof - Fallback reads and payment checks that prove what they did ($0.001–$0.02/call, no API keys, Base x402 USDC + Tempo MPP). [Website](https://fmf-proof.fmf-x402.workers.dev/docs) [Github](https://github.com/GeminiGeorge22/fmf-tools) [MCP](https://fmf-proof.fmf-x402.workers.dev/mcp)
+* FMF Tools Control-plane - Who controls this contract on Ethereum, Base, BSC, Optimism, and Polygon ($0.005–$0.25/call, no API keys, Base x402 USDC + Tempo MPP). [Website](https://controlplane-x402.fmf-x402.workers.dev/docs) [Github](https://github.com/GeminiGeorge22/fmf-tools) [MCP](https://controlplane-x402.fmf-x402.workers.dev/mcp)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

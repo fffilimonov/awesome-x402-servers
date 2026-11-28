@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+- [LeadLock Data Market](https://narrativefeed.leadlock.workers.dev) — 860+ pre-dug public datasets for agents (market narratives, SEC filings, federal spending, labor, weather, health, country reference, holidays) sold per call over x402/USDC (Solana preferred, Base + 4 more networks). Free catalog, sample and headlines endpoints.
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---

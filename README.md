@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* [Reaper Claim Verify](https://x402-report-production.up.railway.app) - x402 v2 server (Base USDC, PayAI facilitator): claim verification (0.01), escrow verification (0.25), wallet verification (0.50), deep brief (1.00). OpenAPI + .well-known/x402 discovery.
 
 ---
 
